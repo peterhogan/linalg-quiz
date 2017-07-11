@@ -1,0 +1,4 @@
+pylatex
+ptpython
+numpy
+sympy
